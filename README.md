@@ -4,6 +4,9 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/DameSmith6/Azure-SOC)
+ 
+- <b>Nessus Vulnerability Management</b>
+  - [Vulnerability scanning and Vulnerability remediation](https://github.com/DameSmith6/Nessus-Vulnerability-Managment)
 
 <h2> 🤳 Connect with me:</h2>
 
